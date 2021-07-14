@@ -1,0 +1,9 @@
+dependencies:
+- name: app1
+  repository: file://../app1
+  version: 0.1.0
+- name: app2
+  repository: file://../app2
+  version: 0.1.0
+digest: sha256:20669b9d52ac9624986d9a5d78957019236a8229e2f66a763c7871e4ae188d4a
+generated: "2021-07-14T17:48:06.148922+02:00"
